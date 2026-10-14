@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+```python
+developer = {
+    "name": "Glen Morton",
+    "role": "Software Developer",
+    "stack": ["Python", "C#", "Kotlin", "SQL"],
+    "frontend": ["HTML", "CSS"],
+    "interests": ["Data Engineering", "Backend Architecture"],
+    "currently_learning": ["TypeScript", "Reverse Engineering"]
+}
+```
+
 <!--
 **GlenMorton/GlenMorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
